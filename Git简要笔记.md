@@ -47,16 +47,21 @@
 
 **查看版本记录**
 
-- `git log` 显示完整的版本记录
-- `git log --pretty=oneline` 每行一个版本记录，且记录完整的版本hash值
-- `git log --oneline` 每行一个版本记录，且记录部分版本hash值
-- `git reflog`  
+`git log` 显示完整的版本记录
+
+`git log --pretty=oneline` 每行一个版本记录，且记录完整的版本hash值
+
+`git log --oneline` 每行一个版本记录，且记录部分版本hash值
+
+`git reflog`  每行一个版本记录，且记录部分版本hash值和HEAD信息
 
 **基于索引指定版本**
 
-- `git reset --hard 索引值` 推荐的方式，索引值的部分值，通过reflog查看的hash值
-- `git reset --hard HEAD^` 只能回退，其中符号^代表回退的步数，一个为一步，即上一个版本
-- `git reset --hard HEAD~2` 只能回退，其中数字2代表回退的步数
+`git reset --hard 索引值` 推荐的方式，索引值的部分值，通过reflog查看的hash值
+
+`git reset --hard HEAD^` 只能回退，其中符号^代表回退的步数，一个为一步，即上一个版本
+
+`git reset --hard HEAD~2` 只能回退，其中数字2代表回退的步数
 
 **比较文件**
 
