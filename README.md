@@ -1,5 +1,5 @@
 # StudyNotes
-备份所有个人学习笔记文件；笔记用[Typora](https://typora.io/)撰写并导出为PDF格式，MD格式文件暂不上传:slightly_smiling_face:
+备份所有个人学习笔记文件；笔记用[Typora](https://typora.io/)撰写并导出为PDF格式:slightly_smiling_face:
 
 笔记清单列表：
 
@@ -23,6 +23,10 @@
 
   基于得到课程《怎样成为时间管理的高手》，作者：汤君健
 
+- [怎样成为演讲的高手](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8C%E6%80%8E%E6%A0%B7%E6%88%90%E4%B8%BA%E6%BC%94%E8%AE%B2%E7%9A%84%E9%AB%98%E6%89%8B%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
+
+  基于得到课程《怎样成为演讲的高手》，作者：王雨豪
+
 - [怎样成为精力管理的高手](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8C%E6%80%8E%E6%A0%B7%E6%88%90%E4%B8%BA%E7%B2%BE%E5%8A%9B%E7%AE%A1%E7%90%86%E7%9A%84%E9%AB%98%E6%89%8B%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
 
   基于得到课程《怎样成为精力管理的高手》，作者：张遇升
@@ -35,6 +39,3 @@
 
   基于极客时间课程《软件工程之美》，作者：宝玉
 
-
-
-若涉及版权问题，烦请邮件联系我。
