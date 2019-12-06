@@ -1,7 +1,7 @@
 # StudyNotes
-备份所有个人学习笔记文件；笔记用[Typora](https://typora.io/)撰写并导出为PDF格式:slightly_smiling_face:
+备份所有个人学习的笔记文件；笔记用[Typora](https://typora.io/)撰写并导出为PDF格式:slightly_smiling_face:
 
-笔记清单列表：
+清单列表：
 
 - [SQL基础教程](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8CSQL%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
 
@@ -14,6 +14,10 @@
 - [怎样成为压力管理的高手](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8C%E6%80%8E%E6%A0%B7%E6%88%90%E4%B8%BA%E5%8E%8B%E5%8A%9B%E7%AE%A1%E7%90%86%E7%9A%84%E9%AB%98%E6%89%8B%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
 
   基于得到课程《怎样成为压力管理的高手》，作者：奚小鹿
+
+- [怎样成为带团队的高手](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8C%E6%80%8E%E6%A0%B7%E6%88%90%E4%B8%BA%E5%B8%A6%E5%9B%A2%E9%98%9F%E7%9A%84%E9%AB%98%E6%89%8B%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
+
+  基于得到课程《怎样成为带团队的高手》，作者：汤君健
 
 - [怎样成为快速阅读的高手](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8C%E6%80%8E%E6%A0%B7%E6%88%90%E4%B8%BA%E5%BF%AB%E9%80%9F%E9%98%85%E8%AF%BB%E7%9A%84%E9%AB%98%E6%89%8B%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
 
