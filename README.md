@@ -11,6 +11,10 @@
 
   基于极客时间课程《从0开始做增长》，作者：刘津
 
+- [怎样快速搞懂一家公司](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8C%E6%80%8E%E6%A0%B7%E5%BF%AB%E9%80%9F%E6%90%9E%E6%87%82%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
+
+  基于得到课程《怎样快速搞懂一家公司》，作者：白洋
+
 - [怎样成为压力管理的高手](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8C%E6%80%8E%E6%A0%B7%E6%88%90%E4%B8%BA%E5%8E%8B%E5%8A%9B%E7%AE%A1%E7%90%86%E7%9A%84%E9%AB%98%E6%89%8B%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
 
   基于得到课程《怎样成为压力管理的高手》，作者：奚小鹿
