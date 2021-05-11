@@ -59,7 +59,7 @@
 
 `git reset --hard 索引值` 推荐的方式，索引值的部分值，通过reflog查看的hash值
 
-`git reset --hard HEAD^` 只能回退，其中符号^代表回退的步数，一个为一步，即上一个版本
+`git reset --hard HEAD^1` 只能回退，其中符号^代表回退的步数，一个为一步，即上一个版本
 
 `git reset --hard HEAD~2` 只能回退，其中数字2代表回退的步数
 
