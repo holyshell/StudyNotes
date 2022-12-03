@@ -1,5 +1,7 @@
 # 学习笔记
-清单列表：
+#### 笔记目录
+
+- [如何成为学习高手](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8C%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%AD%A6%E4%B9%A0%E9%AB%98%E6%89%8B%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
 
 - [《决策与解决问题》书摘](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8A%E5%86%B3%E7%AD%96%E4%B8%8E%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89%E3%80%8B%E4%B9%A6%E6%91%98.pdf)
 
@@ -28,6 +30,8 @@
 - [软件工程之美](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8C%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B9%8B%E7%BE%8E%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
 
 
+
+#### 说明
 
 备份个人学习的笔记文件；所有笔记使用[Typora](https://typora.io/)撰写:slightly_smiling_face:
 
