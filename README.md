@@ -29,6 +29,7 @@
 
 - [软件工程之美](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8C%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B9%8B%E7%BE%8E%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
 
+- [项目经理训练营](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8C%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E8%AE%AD%E7%BB%83%E8%90%A5%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
 - [高效学习训练营](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8C%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0%E8%AE%AD%E7%BB%83%E8%90%A5%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
 
 #### 说明
