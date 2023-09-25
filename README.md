@@ -5,9 +5,7 @@
 
 - [《决策与解决问题》书摘](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8A%E5%86%B3%E7%AD%96%E4%B8%8E%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89%E3%80%8B%E4%B9%A6%E6%91%98.pdf)
 
-- [SQL基础教程](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8CSQL%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
-
-  基于《SQL基础教程》第二版，作者：MICK
+- [SQL基础教程](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8CSQL%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%E3%80%8D%E7%AC%94%E8%AE%B0.pdf) | *基于《SQL基础教程》第二版，作者：MICK*
 
 - [从0开始做增长](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8C%E4%BB%8E0%E5%BC%80%E5%A7%8B%E5%81%9A%E5%A2%9E%E9%95%BF%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
 
@@ -34,7 +32,7 @@
 
 #### 说明
 
-备份个人学习的笔记文件；所有笔记使用[Typora](https://typora.io/)撰写:slightly_smiling_face:
+备份个人学习的笔记文件；所有笔记使用[Typora](https://typora.io/)或[obsidian](https://obsidian.md/)撰写:slightly_smiling_face:
 
 ---
 
