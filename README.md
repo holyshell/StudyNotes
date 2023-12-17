@@ -32,7 +32,7 @@
 
 #### 说明
 
-备份个人学习的笔记文件；所有笔记使用[Typora](https://typora.io/)或[obsidian](https://obsidian.md/)撰写:slightly_smiling_face:
+备份个人学习的笔记文件；所有笔记使用[Typora](https://typora.io/)或[obsidian](https://obsidian.md/)撰写。
 
 ---
 
