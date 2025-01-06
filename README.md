@@ -1,5 +1,15 @@
 # StudyNotes
-> 所有笔记使用[Typora](https://typora.io/)或[obsidian](https://obsidian.md/)撰写。
+
+> 所有笔记使用 [Typora](https://typora.io/) 或 [obsidian](https://obsidian.md/) 撰写。
+
+## 说明
+
+原始笔记文档中留下的微信 ID 已经失效，不再更新，若出现版权问题，请使用新的 ID 联系我。
+<details>
+<summary>WeChat</summary>
+  studytoknow
+</details>
+
 ## 目录
 
 - [如何成为学习高手](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8C%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%AD%A6%E4%B9%A0%E9%AB%98%E6%89%8B%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
@@ -30,5 +40,4 @@
 
 - [项目经理训练营](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8C%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E8%AE%AD%E7%BB%83%E8%90%A5%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
 - [高效学习训练营](https://github.com/holyshell/StudyNotes/blob/master/%E3%80%8C%E9%AB%98%E6%95%88%E5%AD%A6%E4%B9%A0%E8%AE%AD%E7%BB%83%E8%90%A5%E3%80%8D%E7%AC%94%E8%AE%B0.pdf)
-
 
