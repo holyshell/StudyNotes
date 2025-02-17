@@ -1,6 +1,6 @@
 # StudyNotes
 
-> 所有笔记使用 [Typora](https://typora.io/) 或 [obsidian](https://obsidian.md/) 撰写。
+> 本[仓库](https://github.com/holyshell/StudyNotes/)所有笔记使用 [Typora](https://typora.io/) 或 [obsidian](https://obsidian.md/) 撰写。
 
 ## 说明
 
